@@ -6,16 +6,16 @@
 var GulpConfig = (function () {
     function GulpConfig () {
         this.vendors = {
-            js: [],
-            css: [],
+            js: ['./bower_components/bootstrap/dist/js/bootstrap.js'],
+            css: ['./bower_components/bootstrap/dist/css/bootstrap.css'],
             fonts: []
         };
 
         this.app = {
-            js: [],
-            less: [],
+            js: ['./src/js/**/*.js'],
+            css: ['./src/css/**/*.css'],
             views: [],
-            index: []
+            index: ['./src/index.html']
         };
     };
 

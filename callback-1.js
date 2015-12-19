@@ -22,9 +22,6 @@ function clone (arg) {
     return res;
 }
 
-
-
-;;;
 function cloneObj (arg){
     for (var key in arg) {
         if (getTypeOf (key) != )
