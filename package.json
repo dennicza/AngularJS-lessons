@@ -1,0 +1,19 @@
+{
+  "name": "gulp-workshop",
+  "version": "1.0.0",
+  "description": "this is my first gulp training",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennicza/AngularJS-lessons.git"
+  },
+  "author": "dennicza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dennicza/AngularJS-lessons/issues"
+  },
+  "homepage": "https://github.com/dennicza/AngularJS-lessons#readme"
+}

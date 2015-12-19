@@ -1,0 +1,21 @@
+{
+  "name": "gulp-workshop",
+  "description": "this is my first gulp training",
+  "main": "index.html",
+  "authors": [
+    "dennicza"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dennicza/AngularJS-lessons",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
