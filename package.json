@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dennicza/AngularJS-lessons#readme",
   "devDependencies": {
-    "bower": "^1.7.1"
+    "bower": "^1.7.1",
+    "gulp": "^3.9.0"
   }
 }
